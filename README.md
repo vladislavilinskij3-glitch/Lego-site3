@@ -4,7 +4,7 @@
 
 ## 🔗 Ссылка на живой сайт
 Проект опубликован на GitHub Pages и доступен по ссылке:  
-👉 **[https://vladislavilinskij3-glitch.github.io/Lego-site3/](https://vladislavilinskij3-glitch.github.io/Lego-site3/)**
+👉 **[https://vladislavilinskij3-glitch.github.io/Lego-site/)**
 
 ## 🛠 Используемые технологии
 *   **HTML5** — семантическая,  разметка.
