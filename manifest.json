@@ -2,7 +2,7 @@
   "name": "Лего-Студия MIRACLE",
   "short_name": "Lego Miracle",
   "description": "Школа юных инженеров...",
-  "start_url": ".",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#d61c1c",
