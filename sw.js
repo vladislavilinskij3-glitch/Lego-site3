@@ -1,10 +1,9 @@
-//  сервис-воркер для PWA
 const CACHE_NAME = 'lego-site-v1';
 const ASSETS = [
-    '/Lego-site3/',
-    '/Lego-site3/index.html',
-    '/Lego-site3/style.css',
-    '/Lego-site3/icon.png'
+    './',
+    './index.html',
+    './style.css',
+    './icon.png'
 ];
 
 self.addEventListener('install', (e) => {
